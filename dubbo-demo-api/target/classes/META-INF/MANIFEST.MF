@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: dubbo-demo-api
+Implementation-Version: 2.6.4-SNAPSHOT
+Built-By: Administrator
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: dubbo-demo-api
+Implementation-Vendor-Id: com.alibaba
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://github.com/apache/incubator-dubbo/dubbo-de
+ mo/dubbo-demo-api
+Created-By: Maven Integration for Eclipse
+Specification-Version: 2.6.4-SNAPSHOT
+Implementation-Vendor: The Apache Software Foundation
+
